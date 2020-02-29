@@ -4,7 +4,7 @@
 $\Gamma$、$\iota$、$\sigma$、$\phi$、$\upsilon$、$\Pi$、$\Bbbk$、$\heartsuit$、$\int$、$\oint$
 ```
 
-$ \Gamma $ 、 $\iota$ 、$\sigma$ 、$\phi$ 、$\upsilon$ 、$\Pi$ 、$\Bbbk$ 、$\heartsuit$ 、$\int$ 、$\oint$ 
+$\Gamma$ 、 $\iota$ 、$\sigma$ 、$\phi$ 、$\upsilon$ 、$\Pi$ 、$\Bbbk$ 、$\heartsuit$ 、$\int$ 、$\oint$ 
 
 ### 三角函数、对数、指数
 
@@ -12,7 +12,7 @@ $ \Gamma $ 、 $\iota$ 、$\sigma$ 、$\phi$ 、$\upsilon$ 、$\Pi$ 、$\Bbbk$ �
 $\tan$、$\sin$、$\cos$、$\lg$、$\arcsin$、$\arctan$、$\min$、$\max$、$\exp$、$\log$
 ```
 
-$ \tan $ 、$\sin$ 、$\cos$ 、$\lg$ 、$\arcsin$ 、$\arctan$ 、$\min$ 、$\max$ 、$\exp$ 、$\log$
+$\tan$ 、$\sin$ 、$\cos$ 、$\lg$ 、$\arcsin$ 、$\arctan$ 、$\min$ 、$\max$ 、$\exp$ 、$\log$
 
 ### 运算符
 
